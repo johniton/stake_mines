@@ -1,2 +1,2 @@
 # stake_mines
-hu
+h
