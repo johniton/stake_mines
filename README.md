@@ -1,3 +1,3 @@
 # stake_mines
-jjj 
-lo
+jij 
+ljul
