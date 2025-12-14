@@ -1,2 +1,2 @@
 # stake_mines
-lol
+lol indeed
