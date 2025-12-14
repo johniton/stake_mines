@@ -1,2 +1,2 @@
 # stake_mines
-hi twice
+hi twice three times+
