@@ -1,3 +1,3 @@
 # stake_mines
 hi 
-lm
+la
