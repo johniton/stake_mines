@@ -4,7 +4,7 @@
 
 
 
-extern int A[5][5];  // Declaration of the array
+extern int A[5][5];  // Declaration of th
 void arr_initialization(int A[][5]);
 void arr_display(int A[][5]);
 int mine_generator();
