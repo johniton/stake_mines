@@ -1,7 +1,7 @@
 # stake_mines
 hi 
 ind
-main branch change
+main hs change
 ifk
 y7r
 is
