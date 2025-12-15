@@ -1,3 +1,3 @@
 # stake_mines
-hi twice three times+
+hi thuyhy three times+
 new
