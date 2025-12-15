@@ -1,2 +1,2 @@
 # stake_mines
-hi from branch A
+hi from branch hehe
